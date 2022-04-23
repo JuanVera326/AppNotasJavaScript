@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#section1{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+.color{
+    width: 152px;
+}
+
